@@ -14,7 +14,36 @@ component structure
         references
             create component with first letter uppercase
             rfce
-            
+
+
+        for navigation
+            import 'react-bootstrap'
+            import Navbar from "react-bootstrap/Navbar";
+            import Nav from "react-bootstrap/Nav";
+
+            <Navbar>..for the whole component
+                expand="lg"
+            <Navbar,Brand>.. for non collaplse element
+            <Navbar,Brand/>.
+            <Navbar.Toggle />
+            <Navbar.Collapse>.. for collaplse elements
+            <Nav>
+            <Nav.Link>
+            <Nav.Link/>
+            <Nav/>
+            <Navbar.Collapse/>
+            <Navbar/>
+
+
+        for Router
+            <BrowserRouter>
+            <Routes>
+                <Route path="" element={</>} />
+            </Routes>
+            </BrowserRouter>
+
+
+
     2, css and bootstrap
     3, java script and jquery
     4, database
