@@ -1,0 +1,36 @@
+>> preparing document and react app
+
+        > create a folder 
+        > open terminal and type >> npx create-react-app {name of the project}
+        > test your react app by npm start
+        > delete unesessary files from the react app
+            -app.test.js, logosvg, reportWebvitals, setupTests
+                -remove the import of deleted files from the reamining components
+
+>> link with github account
+    git init
+            
+        
+>> study the design and plan some structure 
+        components
+            div, anchors, links
+
+            header
+            alert
+            topThree
+            bottomThree
+            footer
+
+
+> adjust your folder structure
+            for resources
+                components
+>> start coding
+    1, html part
+    2, css and bootstrap
+    3, java script and jquery
+    4, database
+    5, api integration
+>> deploy
+
+

@@ -1,0 +1,18 @@
+component structure
+            header
+            alert
+            topThree
+            bottomThree
+            footer
+
+
+>> start coding
+    1, html part
+        headings
+        paragraphs
+        anchors
+        references
+    2, css and bootstrap
+    3, java script and jquery
+    4, database
+    5, api integration
