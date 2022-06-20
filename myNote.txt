@@ -7,9 +7,24 @@
             -app.test.js, logosvg, reportWebvitals, setupTests
                 -remove the import of deleted files from the reamining components
 
+>> install dependencies
+    react-bootstrap
+
 >> link with github account
+log in to your github account and create repository
     git init
-            
+    git status
+    git add .
+    git commit -m "first commit"
+    git remote add origin {pate the link on github repository}
+    git push -u origin master
+    see if the files are added to the repository
+        for any update
+            git add .
+            git commit -m "message"
+            git push -u origin master
+
+
         
 >> study the design and plan some structure 
         components
